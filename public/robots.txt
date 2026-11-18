@@ -1,0 +1,6 @@
+# Robots.txt for RAJ PROPERTIES (rajproperties.in)
+User-agent: *
+Allow: /
+
+# Sitemap Index
+Sitemap: https://rajproperties.in/sitemap.xml
